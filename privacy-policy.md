@@ -26,11 +26,11 @@
 ## 5. 제3자 서비스
 본 앱은 아래와 같은 제3자 서비스를 이용할 수 있습니다.
 - Google Play 결제 시스템
-- 게임 데이터 저장 (AWS, Play Games)
+- 게임 데이터 저장 (Google Firebase, Google Play Games)
 
 ## 6. 이용자의 권리
 사용자는 언제든지 개인정보 열람, 수정, 삭제를 요청할 수 있습니다. 계정 삭제를 원할 경우 고객 지원팀에 문의하세요.
 
 ## 7. 문의처
 개인정보 보호 관련 문의는 아래 이메일로 연락 주세요.  
-이메일: nambrodev@gmail.com
+이메일: devcodetiger@gmail.com
